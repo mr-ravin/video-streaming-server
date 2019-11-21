@@ -17,12 +17,11 @@ var fn= fs.readdir('video/', function (err, files) {
 
 app.get('/', function(req, res){
   console.log('connected');  
-  var rand_num= Math.floor(Math.random(0,list_video.length));
-  console.log(rand_num);
+  var rand_num= Math.floor(Math.random()*Math.floor(list_video.length));
   var random_select_file= list_video[rand_num];
   var readerStream = fs.createReadStream("video/"+random_select_file);
   readerStream.pipe(res);
-  console.log("playing: "+list_video[0]);
+  console.log("playing: "+random_select_file);
   
   
 
