@@ -19,6 +19,8 @@ This repository includes a simple video streamming server, which randomly select
 ```python
 $ node server.js
 ```
+#### Preferred Web Browser: Mozilla Fireox
+
 ##### Note: Please do use this software at your own risks!!!
 
 ##### The programmer of this server is not liable for any damages (if occured) using this program. Please use other solutions for transferring, sharing, storing very secret information, this program is made for simple use cases only, don't use it for sensitive work.
