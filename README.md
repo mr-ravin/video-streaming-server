@@ -19,7 +19,7 @@ This repository includes a simple video streamming server, which randomly select
 ```python
 $ node server.js
 ```
-#### Preferred Web Browser: Mozilla Fireox
+#### Preferred Web Browser: Mozilla Firefox
 
 ##### Note: Please do use this software at your own risks!!!
 
