@@ -11,7 +11,7 @@ This repository includes a simple video streaming server, which randomly selects
    |--video (this is a folder)
    
 ---|
-   |--client.html (this is the html page to access the video streamming server from client side)
+   |--client.html (this is the html page to access the video streaming server from client side)
 ```
 
 - create a folder "video" inside the directory where server.js is present
