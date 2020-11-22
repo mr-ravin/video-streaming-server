@@ -9,6 +9,9 @@ This repository includes a simple video streamming server, which randomly select
    |--server.js
    |
    |--video (this is a folder)
+   
+---|
+   |--client.html (this is the html page to access the video streamming server from client side)
 ```
 
 - create a folder "video" inside the directory where server.js is present
@@ -19,6 +22,13 @@ This repository includes a simple video streamming server, which randomly select
 ```python
 $ node server.js
 ```
+
+#### Steps to connect to server from the client side.
+
+```
+open client.html on the client-side browser.
+````
+
 #### Preferred Web Browser: Mozilla Firefox
 
 ```python
