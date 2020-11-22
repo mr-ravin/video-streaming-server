@@ -23,7 +23,7 @@ This repository includes a simple video streamming server, which randomly select
 $ node server.js
 ```
 
-#### Steps to connect to server from the client side.
+#### Steps to connect to server from the client side:
 
 ```
 open client.html on the client-side browser.
