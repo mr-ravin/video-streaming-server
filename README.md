@@ -1,5 +1,5 @@
 # video-stream-server-nodejs
-This repository includes a simple video streamming server, which randomly selects a video and plays it. This server is written in nodejs.
+This repository includes a simple video streaming server, which randomly selects a video and plays it. This server is written in nodejs.
 
 #### Programmer: [Ravin Kumar](http://mr-ravin.github.io)
 
